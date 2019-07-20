@@ -1,2 +1,2 @@
 # Titanic_Exploration
-Functoin tests about titanic
+Function tests about titanic
